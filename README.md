@@ -47,7 +47,7 @@ IF(
     BLANK(),
     (CurrentProfit - PreviousProfit) / PreviousProfit
 )
-```
+
 
 ## Business Recommendations
 1. **Pricing Optimization**: Address Machines category's negative profitability through cost analysis
