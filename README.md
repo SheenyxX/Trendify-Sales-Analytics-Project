@@ -1,5 +1,3 @@
-Here's your GitHub README formatted similarly to the Financial Performance Analysis example, but tailored for your Sales & Customer Insights project:
-
 # Sales & Customer Insights: Diagnosing Profitability Gaps in E-Commerce  
 *Prepared for: Trendify (Growing E-Commerce Retailer)*  
 
