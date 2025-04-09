@@ -30,7 +30,7 @@ Trendify achieved **25.81% order growth in 2023** while struggling with inconsis
 ## 🌐 Data Organization & Structure  
 
 ### 1. **Product Master Data** (`Products.xlsx`)  
-![Products Table](https://github.com/yourusername/yourrepo/blob/main/tb1.png)  
+![Products Table](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/tb1.png)  
 *1892 products with hierarchical categorization*  
 
 - **Classification Structure**:  
@@ -41,7 +41,7 @@ Trendify achieved **25.81% order growth in 2023** while struggling with inconsis
   ```  
 
 ### 2. **Transactional Core** (`Orders.xlsx`)  
-![Orders Table](https://github.com/yourusername/yourrepo/blob/main/tb2.png)  
+![Orders Table](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/tb2.png)  
 *9,994 transactions with profit/sales metadata*  
 
 - **Key Fields**:  
@@ -53,15 +53,15 @@ Trendify achieved **25.81% order growth in 2023** while struggling with inconsis
 ### 3. **Dimensional Data**  
 
 #### Customer Table  
-![Customer Table](https://github.com/yourusername/yourrepo/blob/main/tb3.png)  
+![Customer Table](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/tb3.png)  
 - **793 unique customers** with purchase history  
 
 #### Location Table  
-![Location Table](https://github.com/yourusername/yourrepo/blob/main/tb4.png)  
+![Location Table](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/tb4.png)  
 - **Geographic hierarchy**: Postal Code → City → State → Region  
 
 ### 4. **Relational Model**  
-![Data Model](https://github.com/yourusername/yourrepo/blob/main/ttb6.png)  
+![Data Model](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/ttb6.png)  
 *Star schema optimized for retail analytics*  
 
 - Central fact table (`Orders`) connected to all dimensions  
@@ -73,7 +73,7 @@ Trendify achieved **25.81% order growth in 2023** while struggling with inconsis
 ## 📊 Dashboard Walkthrough  
 
 ### 1. Sales Performance Dashboard  
-![Sales Dashboard](https://github.com/yourusername/yourrepo/blob/main/d6.png)  
+![Sales Dashboard](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/d6.png)  
 
 **Components**:  
 - Year-over-year sales/profit comparison (2022 vs 2023)  
@@ -96,7 +96,7 @@ RETURN DIVIDE((CurrentProfit - PreviousProfit), PreviousProfit)  // +30.3%
 ---
 
 ### 2. Customer Behavior Dashboard  
-![Customer Dashboard](https://github.com/yourusername/yourrepo/blob/main/d7.png)  
+![Customer Dashboard](https://github.com/SheenyxX/Trendify-Sales-Analytics-Project/blob/main/d7.png)  
 
 **Components**:  
 - Customer segmentation by order frequency  
