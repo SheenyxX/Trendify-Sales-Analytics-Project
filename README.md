@@ -1,3 +1,6 @@
+
+[![Power BI](https://img.shields.io/badge/Power_BI-Microsoft-blue.svg)](https://powerbi.microsoft.com/)
+
 # Sales & Customer Insights: Diagnosing Profitability Gaps in E-Commerce  
 *Prepared for: Trendify (Growing E-Commerce Retailer)*  
 
